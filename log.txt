@@ -1,0 +1,560 @@
+**********SONG INFO*********
+0
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=696fd7991ed24978a1c8217d98942772
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+1
+song name: Here Comes The Sun - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+2
+song name: Cf Beat
+preview song: https://p.scdn.co/mp3-preview/013a559451d32aa219c781b4a877c788f48c9340?cid=696fd7991ed24978a1c8217d98942772
+album: Cf Beat
+artist(s): CF da Kid
+*****************************
+**********SONG INFO*********
+3
+song name: Come Together - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+4
+song name: Beauty And A Beat
+preview song: null
+album: Believe (Deluxe Edition)
+artist(s): Justin Bieber
+*****************************
+**********SONG INFO*********
+5
+song name: Beat of the Music
+preview song: https://p.scdn.co/mp3-preview/2990273cbb8dc08999c4c73e286c5f654e3bc561?cid=696fd7991ed24978a1c8217d98942772
+album: Bring You Back
+artist(s): Brett Eldredge
+*****************************
+**********SONG INFO*********
+6
+song name: Let It Be - Remastered 2009
+preview song: null
+album: Let It Be (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+7
+song name: Helena Beat
+preview song: https://p.scdn.co/mp3-preview/488927f6e4eaf736b55d15e0f48669385a972e92?cid=696fd7991ed24978a1c8217d98942772
+album: Torches
+artist(s): Foster The People
+*****************************
+**********SONG INFO*********
+8
+song name: Yesterday - Remastered 2009
+preview song: null
+album: Help! (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+9
+song name: Hey Jude - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+10
+song name: Titanium (feat. Sia)
+preview song: https://p.scdn.co/mp3-preview/06392eaab5975806f18d8411f5b58f50b1899198?cid=696fd7991ed24978a1c8217d98942772
+album: Nothing but the Beat
+artist(s): David Guetta
+*****************************
+**********SONG INFO*********
+11
+song name: I Want To Hold Your Hand - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+12
+song name: Technicolour Beat
+preview song: null
+album: Oh Wonder
+artist(s): Oh Wonder
+*****************************
+**********SONG INFO*********
+13
+song name: Blackbird - Remastered 2009
+preview song: null
+album: The Beatles (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+14
+song name: Titanium (feat. Sia)
+preview song: https://p.scdn.co/mp3-preview/06392eaab5975806f18d8411f5b58f50b1899198?cid=696fd7991ed24978a1c8217d98942772
+album: Nothing but the Beat 2.0
+artist(s): David Guetta
+*****************************
+**********SONG INFO*********
+15
+song name: Twist And Shout - Remastered 2009
+preview song: null
+album: Please Please Me (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+16
+song name: In My Life - Remastered 2009
+preview song: null
+album: Rubber Soul (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+17
+song name: Beat the Devil's Tattoo
+preview song: https://p.scdn.co/mp3-preview/617e3958219b8c6058f2358c23833ac990210f88?cid=696fd7991ed24978a1c8217d98942772
+album: Beat the Devil's Tattoo
+artist(s): Black Rebel Motorcycle Club
+*****************************
+**********SONG INFO*********
+18
+song name: Tell Your Heart To Beat Again
+preview song: https://p.scdn.co/mp3-preview/10d454678df0aa1a98e0f33512f661637ae0c7e3?cid=696fd7991ed24978a1c8217d98942772
+album: Hope In Front of Me
+artist(s): Danny Gokey
+*****************************
+**********SONG INFO*********
+19
+song name: JPEGMAFIA TYPE BEAT
+preview song: null
+album: All My Heroes Are Cornballs
+artist(s): JPEGMAFIA
+*****************************
+**********SONG INFO*********
+0
+song name: Ambush!
+preview song: https://p.scdn.co/mp3-preview/c2abd02364db2286abac07204e6bc1bc1efc8b70?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush!
+artist(s): Shaaye
+*****************************
+**********SONG INFO*********
+1
+song name: Ambush In The Night
+preview song: null
+album: Survival
+artist(s): Bob Marley & The Wailers
+*****************************
+**********SONG INFO*********
+2
+song name: RAP AMBUSH
+preview song: https://p.scdn.co/mp3-preview/eeb1b7a8b7434a5697de797312dab0cc4ae8b403?cid=696fd7991ed24978a1c8217d98942772
+album: BORN LIKE THIS (10TH ANNIVERSARY EDITION)
+artist(s): MF DOOM
+*****************************
+**********SONG INFO*********
+3
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/bf482a19f17407d1f6888febc1304be093de3609?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush
+artist(s): OFB
+*****************************
+**********SONG INFO*********
+4
+song name: The Ambush
+preview song: https://p.scdn.co/mp3-preview/3cc68eec50c6ed36233d9bb7cd11f159cc7943ce?cid=696fd7991ed24978a1c8217d98942772
+album: The Ambush
+artist(s): Zyrus 7
+*****************************
+**********SONG INFO*********
+5
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/38dd7c1b80bceb36977c70f3fbc8138a724cb594?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush
+artist(s): Cozway
+*****************************
+**********SONG INFO*********
+6
+song name: RAP AMBUSH
+preview song: https://p.scdn.co/mp3-preview/eeb1b7a8b7434a5697de797312dab0cc4ae8b403?cid=696fd7991ed24978a1c8217d98942772
+album: BORN LIKE THIS
+artist(s): MF DOOM
+*****************************
+**********SONG INFO*********
+7
+song name: Star Wars Main Title and Ambush on Coruscant
+preview song: null
+album: Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)
+artist(s): John Williams
+*****************************
+**********SONG INFO*********
+8
+song name: Jedha City Ambush
+preview song: null
+album: Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)
+artist(s): Michael Giacchino
+*****************************
+**********SONG INFO*********
+9
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/367fe96a9e78627da3335416007b0a2b05fd15a8?cid=696fd7991ed24978a1c8217d98942772
+album: Odd Changes
+artist(s): Kesh Min
+*****************************
+**********SONG INFO*********
+10
+song name: 90s By Nature (feat. MC Ambush) - Radio Mix
+preview song: https://p.scdn.co/mp3-preview/bfceaf2147653108eb51c39249b95c43f7cfc264?cid=696fd7991ed24978a1c8217d98942772
+album: 90s By Nature (feat. MC Ambush) [Radio Mix]
+artist(s): Showtek
+*****************************
+**********SONG INFO*********
+11
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/be032b0bbe998740057d9d601114eb0fb6ad5ed7?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush
+artist(s): Cheap Trick
+*****************************
+**********SONG INFO*********
+12
+song name: Hands Up
+preview song: https://p.scdn.co/mp3-preview/e9d680e7da20a57bd0dfe137159372ee28a214b4?cid=696fd7991ed24978a1c8217d98942772
+album: Hands Up
+artist(s): Hardwell
+*****************************
+**********SONG INFO*********
+13
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/8047cd5755d4718a00aefdfa13837b09e0f84bba?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush
+artist(s): Rootkit
+*****************************
+**********SONG INFO*********
+14
+song name: The Ambush
+preview song: https://p.scdn.co/mp3-preview/8878716deb4a90505892f478e132041a588f6e1a?cid=696fd7991ed24978a1c8217d98942772
+album: Battlefield 1 (Original Soundtrack)
+artist(s): Johan Söderqvist
+*****************************
+**********SONG INFO*********
+15
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/249e8abb33a4b1cc85c057a948f3d6499d424cbb?cid=696fd7991ed24978a1c8217d98942772
+album: Ambush
+artist(s): BROHUG
+*****************************
+**********SONG INFO*********
+16
+song name: Ambush
+preview song: https://p.scdn.co/mp3-preview/fd7117121d445d47ce009898cff2094e63a8d170?cid=696fd7991ed24978a1c8217d98942772
+album: Roots
+artist(s): Sepultura
+*****************************
+**********SONG INFO*********
+17
+song name: Sentries in the Ambush
+preview song: https://p.scdn.co/mp3-preview/10589e53c82d20de275975898cd0c1227bea82ee?cid=696fd7991ed24978a1c8217d98942772
+album: Sentries in the Ambush / Divided Sky Lane
+artist(s): The Mountain Goats
+*****************************
+**********SONG INFO*********
+18
+song name: Ambassador Ambush
+preview song: null
+album: Incredibles 2 (Original Motion Picture Soundtrack)
+artist(s): Michael Giacchino
+*****************************
+**********SONG INFO*********
+19
+song name: Jumpy - Remix
+preview song: https://p.scdn.co/mp3-preview/f50b5edeeeedd99f9fae83c98da0d1095dfaf541?cid=696fd7991ed24978a1c8217d98942772
+album: Jumpy (Remix)
+artist(s): Ambush Buzzworl
+*****************************
+**********SONG INFO*********
+0
+song name: All Girls Are The Same
+preview song: null
+album: Goodbye & Good Riddance
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+1
+song name: all the good girls go to hell
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+2
+song name: Act Up
+preview song: null
+album: Girl Code
+artist(s): City Girls
+*****************************
+**********SONG INFO*********
+3
+song name: Girls Need Love (with Drake) - Remix
+preview song: null
+album: Last Day Of Summer
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+4
+song name: 10 Freaky Girls (with 21 Savage)
+preview song: null
+album: NOT ALL HEROES WEAR CAPES (Deluxe)
+artist(s): Metro Boomin
+*****************************
+**********SONG INFO*********
+5
+song name: Most Girls
+preview song: null
+album: Most Girls
+artist(s): Hailee Steinfeld
+*****************************
+**********SONG INFO*********
+6
+song name: I Like Girls (feat. Lil Skies)
+preview song: https://p.scdn.co/mp3-preview/b03a0dc6b74d298ce6c71fc94e8706c5ccacce20?cid=696fd7991ed24978a1c8217d98942772
+album: TrapStar Turnt PopStar
+artist(s): PnB Rock
+*****************************
+**********SONG INFO*********
+7
+song name: Beautiful Girls
+preview song: https://p.scdn.co/mp3-preview/149a2a28b7acbe31096d9f3cb4618ef08926c8b2?cid=696fd7991ed24978a1c8217d98942772
+album: Beautiful Girls
+artist(s): Sean Kingston
+*****************************
+**********SONG INFO*********
+8
+song name: Girls Need Love
+preview song: null
+album: Last Day Of Summer
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+9
+song name: Girls, Girls, Girls
+preview song: https://p.scdn.co/mp3-preview/f84f2cba1e6180c0c6bec586c54daa3352d33da6?cid=696fd7991ed24978a1c8217d98942772
+album: Girls, Girls, Girls
+artist(s): Mötley Crüe
+*****************************
+**********SONG INFO*********
+10
+song name: City Girls
+preview song: https://p.scdn.co/mp3-preview/5acf862cda3c8896f17fbf82c11ab5f0b8cea5cd?cid=696fd7991ed24978a1c8217d98942772
+album: We All Shine
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+11
+song name: Girls Like You (feat. Cardi B)
+preview song: null
+album: Red Pill Blues (Deluxe)
+artist(s): Maroon 5
+*****************************
+**********SONG INFO*********
+12
+song name: Girls Like You (feat. Cardi B)
+preview song: null
+album: Girls Like You (feat. Cardi B)
+artist(s): Maroon 5
+*****************************
+**********SONG INFO*********
+13
+song name: Twerk (feat. Cardi B)
+preview song: null
+album: Girl Code
+artist(s): City Girls
+*****************************
+**********SONG INFO*********
+14
+song name: All the Pretty Girls
+preview song: https://p.scdn.co/mp3-preview/bc8fea30888dba8ab9eeacad1683d51fbfaf0d37?cid=696fd7991ed24978a1c8217d98942772
+album: Cosmic Hallelujah
+artist(s): Kenny Chesney
+*****************************
+**********SONG INFO*********
+15
+song name: Girls Need Love (with Drake) - Remix
+preview song: null
+album: Over It
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+16
+song name: Some Girls
+preview song: https://p.scdn.co/mp3-preview/c224fbb935e9cad50809560e5d5e95f5c02ae70a?cid=696fd7991ed24978a1c8217d98942772
+album: Jameson Rodgers
+artist(s): Jameson Rodgers
+*****************************
+**********SONG INFO*********
+17
+song name: Wiggle It (feat. City Girls)
+preview song: https://p.scdn.co/mp3-preview/d004b5e85ce93620067cdd75a0abb297f43738e1?cid=696fd7991ed24978a1c8217d98942772
+album: Wiggle It (feat. City Girls)
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+18
+song name: My Type (feat. City Girls & Jhené Aiko) - Remix
+preview song: https://p.scdn.co/mp3-preview/21f03b43d1a6551691894cec2fd991fa53692a84?cid=696fd7991ed24978a1c8217d98942772
+album: My Type (feat. City Girls & Jhené Aiko) [Remix]
+artist(s): Saweetie
+*****************************
+**********SONG INFO*********
+19
+song name: Girls / Girls / Boys
+preview song: https://p.scdn.co/mp3-preview/22de23682f2d0454acbe237814dd075e4c1ad16c?cid=696fd7991ed24978a1c8217d98942772
+album: Too Weird To Live, Too Rare To Die!
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+0
+song name: Truth Hurts
+preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=696fd7991ed24978a1c8217d98942772
+album: Cuz I Love You (Deluxe)
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+1
+song name: Dance Monkey
+preview song: https://p.scdn.co/mp3-preview/535ffea66207a0fc07d57fbaea7b5594be797f9b?cid=696fd7991ed24978a1c8217d98942772
+album: The Kids Are Coming
+artist(s): Tones and I
+*****************************
+**********SONG INFO*********
+2
+song name: i
+preview song: https://p.scdn.co/mp3-preview/a393c84f01ff692b048e5f06479b3f827dd7f5c0?cid=696fd7991ed24978a1c8217d98942772
+album: Shelby
+artist(s): Lil Skies
+*****************************
+**********SONG INFO*********
+3
+song name: I Fall Apart
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+4
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+5
+song name: I Forgot That You Existed
+preview song: null
+album: Lover
+artist(s): Taylor Swift
+*****************************
+**********SONG INFO*********
+6
+song name: Murder On My Mind
+preview song: https://p.scdn.co/mp3-preview/b681a45cf2f796326f42bed43a6e419cd88ef92c?cid=696fd7991ed24978a1c8217d98942772
+album: I AM YOU
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+7
+song name: I Don't Care (with Justin Bieber)
+preview song: https://p.scdn.co/mp3-preview/40d2bf0a16b4a4c7e5747a57943f9c0bbf5bc5ab?cid=696fd7991ed24978a1c8217d98942772
+album: I Don't Care (with Justin Bieber)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+8
+song name: I Know
+preview song: null
+album: Hollywood's Bleeding
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+9
+song name: I Like It
+preview song: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=696fd7991ed24978a1c8217d98942772
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+10
+song name: If I Can't Have You
+preview song: null
+album: If I Can't Have You
+artist(s): Shawn Mendes
+*****************************
+**********SONG INFO*********
+11
+song name: a lot
+preview song: https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=696fd7991ed24978a1c8217d98942772
+album: i am > i was
+artist(s): 21 Savage
+*****************************
+**********SONG INFO*********
+12
+song name: I Think He Knows
+preview song: null
+album: Lover
+artist(s): Taylor Swift
+*****************************
+**********SONG INFO*********
+13
+song name: The Less I Know The Better
+preview song: null
+album: Currents
+artist(s): Tame Impala
+*****************************
+**********SONG INFO*********
+14
+song name: Whiskey Glasses
+preview song: https://p.scdn.co/mp3-preview/95ac7dba403384cdb429dc9a838a889a6579ecb2?cid=696fd7991ed24978a1c8217d98942772
+album: If I Know Me
+artist(s): Morgan Wallen
+*****************************
+**********SONG INFO*********
+15
+song name: 'Till I Collapse
+preview song: null
+album: The Eminem Show
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+16
+song name: Juice
+preview song: https://p.scdn.co/mp3-preview/7ca1598cec36c49118562b02491b9a030e233d88?cid=696fd7991ed24978a1c8217d98942772
+album: Cuz I Love You
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+17
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=696fd7991ed24978a1c8217d98942772
+album: Pray for the Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+18
+song name: I Like Me Better
+preview song: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=696fd7991ed24978a1c8217d98942772
+album: I Like Me Better
+artist(s): Lauv
+*****************************
+**********SONG INFO*********
+19
+song name: I Don't Know About You
+preview song: https://p.scdn.co/mp3-preview/cd9770406745703e8927b26b58e64af577cdcb9c?cid=696fd7991ed24978a1c8217d98942772
+album: Laps Around The Sun
+artist(s): Chris Lane
+*****************************
