@@ -30,6 +30,59 @@ Step by Step instructions
 
 Example 1: Run the concert-this command
 
- node liri.js concert-this <name of artist or band>
+ node liri.js concert-this name of artist or band
 
+
+![](assets/image/concertThis1.png)
+
+
+![](assets/image/concertThis2.png)
+
+Example 2: Run the spotify-this-song command
+
+node liri.js spotify-this-song name of song
+
+![](assets/image/spotifyThis1.png)
+
+![](assets/image/spotifyThis2.png)
+
+
+Example 3: Run the movie-this command
+
+ node liri.js movie-this name of movie
  
+ ![](assets/image/movieThis1.png)
+ ![](assets/image/movieThis2.png)
+ 
+ Example 4: Run the do-what-it-says command
+
+ node liri.js do-what-it-says
+ 
+ ![](assets/image/doWhatItSays1.png)
+  ![](assets/image/doWhatItSays2.png)
+   ![](assets/image/doWhatItSays3.png)
+   
+   TECHNOLOGIES USED
+Javascript
+
+Nodejs
+
+Node packages:
+
+Node-Spotify-API
+
+Request
+
+Moment
+
+DotEnv
+
+APIs used:
+
+Bands in Town API
+
+TRILOGY API
+
+Git
+
+GitHub
